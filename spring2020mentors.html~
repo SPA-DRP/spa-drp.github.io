@@ -6,7 +6,7 @@ title:  'Mentors and Project Descriptions: Spring 2020'
 
 <div class="col-md-8">
   <h2 style="padding-top: 10px;" class="featurette-heading">Winter 2020</h2>
-  <p> The following projects are available in Spring 2020 (more will be added between now and March 1, 2020). Note that if two projects are listed for the same mentor,
+  <p> The following projects are available in Spring 2020. Note that if two projects are listed for the same mentor,
   only one of the projects will run this quarter. Feel free to express interest in multiple projects with the same mentor
 on your application, as it will inform us of interest in a particular topic and we can attempt to offer
 a similar project in future quarters. </p>
@@ -83,7 +83,7 @@ Often, sparsity is imposed through penalization, where we include a term in our 
 </p>
   <h4>Anna Neufeld:  Probabilistic Paradoxes </h4>
   <p class="content" style="padding:0px;margin:0px 20px 0px;">
-      <li style="padding:0px;margin:0px 20px 0px;"> <i> Prerequisites: Knowledge of basic probability </i>  </li>
+      <li style="padding:0px;margin:0px 20px 0px;"> <i> Prerequisites: </i> Knowledge of basic probability </li>
       <li style="padding:0px;margin:0px 20px 0px;"> We will read through the book "Impossible: Surprising Solutions
         to Counterintuitive Conundrums". Each chapter of the book explains and resolves a particular paradox in probability. These paradoxes are
         often introduced through famous problems, such as the Monty Hall problem. The book is written to be accessible to a general audience but proves its points
