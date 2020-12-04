@@ -1,0 +1,98 @@
+---
+layout: default
+title:  'Mentors and Project Descriptions: Winter 2021'
+---
+
+
+<div class="col-md-8">
+  <h2 style="padding-top: 10px;" class="featurette-heading">Autumn  2020</h2>
+  <p> The following projects will be offered for the winter quarter. Note that if the same mentor is listed for several
+    projects, only one of those projects will end up being offered (pending student interest). Please feel free to contact
+    the student organizers with any questions.
+    </p>
+
+
+<h4> Kenny Zhang: Deep Learning for Computer Vision </h4>
+<p class="content" style="padding:0px;margin:0px 20px 0px;">
+    <li style="padding:0px;margin:0px 20px 0px;"> <i> Prerequisites: </i>
+      Proficiency in a programming language (preferably python). Some exposure in basic probability rules and computer science would be helpful.
+</li>
+<li style="padding:0px;margin:0px 20px 0px;">
+Image data is prevalent in our lives and modern deep learning provides a powerful
+tool to deal with image data. We will start with logistic regression and study what is a
+neural network. Then we will move on to convolutional neural network and some coding exercises.
+ If time allowed, we can delve more into the state-of-the-art Generative Adversarial Networks
+ (GAN) and more complicated tasks like segmentation.
+</li>
+</p>
+
+<h4> Sarah Teichman: Introduction to Bayesian Inference  </h4>
+<p class="content" style="padding:0px;margin:0px 20px 0px;">
+    <li style="padding:0px;margin:0px 20px 0px;"> <i>
+      Prerequisites: </i>
+      Stat 311 preferred, Stat 220 or 221 possible
+</li>
+<li style="padding:0px;margin:0px 20px 0px;">
+In this project, we will go through an introduction to Bayesian statistical inference.
+In your introductory class you likely learned the basics of frequentist inference, one of the
+two major approaches to statistics. We will build on this background to learn about Bayesian
+inference, the other major approach. We will start with the online book "Bayes Rules!
+An Introduction to Bayesian Modeling with R", and potentially switch to another resource
+halfway through the quarter. We will combine reading with coding in R and doing exercises from
+the book to enhance understanding of the material.
+</li>
+</p>
+
+
+<h4> Eric Morenz and Yiqun Chen: See what's not there </h4>
+<p class="content" style="padding:0px;margin:0px 20px 0px;">
+    <li style="padding:0px;margin:0px 20px 0px;"> <i>
+      Prerequisites: </i>
+      Experience with linear regression, probability, or data manipulation will allow a deep dive into the content.
+      It is not a requirement for students who are interested in the subject.
+</li>
+<li style="padding:0px;margin:0px 20px 0px;">
+  In this project, we will take a look at the concept of identification in the context of missing data (and causal inference, if time permits or there is interest!!).
+  While no glamorous artificial intelligence buzzwords are involved in the project per se,
+  remember that your model is just as good as your data (and as we will see by the end of the
+   quarter, as good as your identification assumptions!). We will be drawing from various sources
+    (e.g., Chapter 6 in Foundations of Agonistic Statistics) in the hope of
+    flexible schedule/materials given your background and interest. We will consider a
+    few empirical problems as well, from TidyTuesday data sets to political polls.
+</li>
+</p>
+
+
+<h4> Apara Venkat: Networks and Choice Modeling </h4>
+<p class="content" style="padding:0px;margin:0px 20px 0px;">
+    <li style="padding:0px;margin:0px 20px 0px;"> <i> Prerequisites: </i>
+    Calculus (MATH 126) and exposure to probability theory (STAT 340). Linear Algebra (MATH 308) suggested, but not necessary.
+    A general interest and curiosity about math and the world. </li>
+    <li style="padding:0px;margin:0px 20px 0px;">
+      Imagine a grocery store that presents its customers with a multitude of cereal options. A rational customer would want to maximize their utility. How do you define the "utility" of an item? How do you model the decisions of a customer when there are random effects?
+      If we have data from decisions made by customers, can we identify the
+      utility of various cereals? Discrete choice models attempt to answer these questions.
+      In the language of networks, this problem is closely related to ranking.
+      How does Google rank the webpages? How do we rank players in sports tournaments?
+      Recent developments have been unifying these fields.
+
+In this project, we will wrestle with these questions. First, we will learn about discrete choice models.
+Then, we will learn about ranking in networks. Finally we will attempt to reconcile the two.
+Time permitting, we will also run simulations and look at datasets along the way.
+
+     </li>
+</p>
+
+<h4> Jerry Wei: Topological Data Analysis </h4>
+<p class="content" style="padding:0px;margin:0px 20px 0px;">
+    <li style="padding:0px;margin:0px 20px 0px;"> <i> Prerequisites:
+  Exposure to probability theory and linear algebra
+  </i>
+     </li>
+    <li style="padding:0px;margin:0px 20px 0px;">
+    Topological Data Analysis (TDA) broadly is about data analysis methods that find structure in data. This includes a lot of topics, and we will focus on clustering and nonlinear dimension reduction. We will study some textbook chapters and some classical papers.
+    We may also go into mode estimation and manifold estimation if interested.
+     </li>
+</p>
+
+</div>
