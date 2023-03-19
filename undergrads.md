@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title:  'Undergraduates'
 ---
 
-<div style="padding-top: 10px;" class="col-md-8">
+<!-- <div style="padding-top: 10px;" class="col-md-8"> -->
   <h2 class="featurette-heading"> </h2>
   <p class="lead">
   <h3> Who should apply? </h3>
@@ -40,4 +40,4 @@ title:  'Undergraduates'
   you will complete a writeup of your project and you will give a 10 minute presentation to the other participants. You may register
   for 1 credit of Stat 499 for this work.
 </p>
-</div>
+

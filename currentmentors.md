@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  'Mentors and Project Descriptions'
 ---
 
@@ -10,7 +10,7 @@ title:  'Mentors and Project Descriptions'
   </h4>
   <hr>
 
-<div class="col-md-8">
+<!-- <div class="col-md-8"> -->
   <h2 style="padding-top: 10px;" class="featurette-heading"> Spring 2023 </h2>
 
 
@@ -82,4 +82,4 @@ In this project we will study a mathematical model that uses information at the 
 
 
 
-</div>
+<!-- </div> -->
