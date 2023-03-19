@@ -21,6 +21,9 @@
         {% else %}
           Writeup
         {% endif %}
+        {% if mentee.external %}
+          | <a href="{{ mentee.external }}">External Link</a>
+        {% endif %}
         </h5>
       {% endfor %}
       <b><i> Prerequisites: </i></b> {{ project.prereq }}
