@@ -1,0 +1,21 @@
+---
+layout: page
+title:  'News'
+---
+
+
+<!-- 
+  To add new events, go to `_data/news.yml` and add a new event in the same
+  format of the other events. The date format is YYYY-MM-DD
+  The code below goes through all events in _data/news.yml sorted in reverse by date.
+  So newer events are displayed first.
+ -->
+
+<div>
+  {% assign events = site.data.news | sort: 'date' | reverse %}
+  {% for event in events%}
+    <h4>{{ event.title }}</h4>
+    <b>{{ event.date | date_to_string }}</b> - {{ event.description }}
+    <br><br>
+  {% endfor %}
+</div>
