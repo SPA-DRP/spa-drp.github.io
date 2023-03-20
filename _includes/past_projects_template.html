@@ -7,25 +7,27 @@
   {% for project in projects%}
     {% if project.year == page.year and project.quarter == page.quarter %}
       <h4>{{ project.mentor }}: {{ project.title }}</h4>
-      {% for mentee in project.mentees %}
-        <h5> Student: {{ mentee.name }} </h5>
-        <h5>
-        {% if mentee.slides %}
-          <a href="{{ site.url }}/{{ mentee.slides }}">Slides</a>
-        {% else %}
-          Slides
-        {% endif %}
-        |
-        {% if mentee.writeup %}
-          <a href="{{ site.url }}/{{ mentee.writeup }}">Writeup</a>
-        {% else %}
-          Writeup
-        {% endif %}
-        {% if mentee.external %}
-          | <a href="{{ mentee.external }}">External Link</a>
-        {% endif %}
-        </h5>
-      {% endfor %}
+      {% if project.mentees %}
+        {% for mentee in project.mentees %}
+          <h5> Student: {{ mentee.name }} </h5>
+          <h5>
+          {% if mentee.slides %}
+            <a href="{{ site.url }}/{{ mentee.slides }}">Slides</a>
+          {% else %}
+            Slides
+          {% endif %}
+          |
+          {% if mentee.writeup %}
+            <a href="{{ site.url }}/{{ mentee.writeup }}">Writeup</a>
+          {% else %}
+            Writeup
+          {% endif %}
+          {% if mentee.external %}
+            | <a href="{{ mentee.external }}">External Link</a>
+          {% endif %}
+          </h5>
+        {% endfor %}
+      {% endif %}
       <b><i> Prerequisites: </i></b> {{ project.prereq }}
       <br>
       {{ project.content }}
