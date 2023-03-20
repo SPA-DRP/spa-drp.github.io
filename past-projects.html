@@ -10,13 +10,18 @@ skip_title: true
 
 <div>
   <ul>
-  {% assign sorted_years = site.archive | sort: 'year' | sort: 'quarter' | reverse %}
-    {% for quarter in sorted_years %}
-    <li>
-      <a href="{{ site.url }}/{{ quarter.url }}" class="title">
-        {{ quarter.year }} {{ quarter.quarter }}
-      </a>
-    </li>
+    {% assign grouped_years = site.archive | group_by: 'year' %}
+    {% assign sorted_years = grouped_years | sort: 'name' | reverse %}
+    {% for year in sorted_years %}
+
+      {% assign sorted_quarters = year.items | sort: 'quarter' %}
+      {% for quarter in sorted_quarters %}
+        <li>
+          <a href="{{ site.url }}/{{ quarter.url }}" class="title">
+            {{ quarter.year }} {{ quarter.quarter }}
+          </a>
+        </li>
+      {% endfor %}
     {% endfor %}
   </ul>
 </div>
