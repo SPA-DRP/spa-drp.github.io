@@ -14,7 +14,7 @@ title:  'Undergraduates'
 </p>
   <h3> How to apply? </h3>
   <p>
-   Information about projects and applications for Autumn 2022 will be posted in early September. 
+   Information about projects and applications for each quarter will be posted approximately three weeks before the start of the quarter. Applications will typically be live during the last week of classes and finals week of the preceding quarter, with decisions made during the break between quarters. We do not typically run the DRP during the summer quarter. 
   </p>
   <h3> What are the admissions criteria? </h3>
   <p>
@@ -24,14 +24,13 @@ title:  'Undergraduates'
   or extensive statistical experience. Each quarter, we select a group of students with varying levels
   of statistical experience and at varying points in their academic careers to match the mix of levels
   of the project proposals for that quarter. The most important part of your
-  application is the free response section, where we will look for demonstrated passion for statistics and clear
-  articulation of how you will benefit from the DRP program.
+  application is the free response section, where we will look for demonstrated passion for statistics and clear articulation of how you will benefit from the DRP program.
   The admissions committee is made up of the graduate student coordinators.
   </p>
   <p>
     Some preference is given to upperclass students without
     previous research experience and to students who have applied to the DRP
-    several quarters in a row.
+    several quarters in a row. Students who have already participated in the statistics DRP or in related opportunities at UW will typically not be accepted, but are welcome to apply. 
   </p>
   <h3> What should I expect? </h3>
   <p>
