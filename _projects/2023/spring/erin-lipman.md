@@ -2,6 +2,9 @@
 mentor: Erin Lipman
 title: Bayesian perspectives on probability and statistics
 mentees:
+  - name: Leila Peitsch
+    slides: writeups/spring2023/slides/leila.pdf
+    writeup: writeups/spring2023/writeups/leila.pdf
 prereq: Probability at the level of 311, and some programming experience (preferably R)
 year: 2023
 quarter: spring

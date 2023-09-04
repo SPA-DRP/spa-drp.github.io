@@ -3,6 +3,8 @@ mentor: Vydhourie R.T. Thiyageswaran
 title: Random walks on graphs
 mentees:
   - name: Noah McMahon
+    slides: writeups/win2023/slides/noah.pdf
+    writeup: writeups/win2023/writeups/noah.pdf
 prereq: Some basic exposure to probability. We would still properly review basic probability.
 year: 2023
 quarter: winter

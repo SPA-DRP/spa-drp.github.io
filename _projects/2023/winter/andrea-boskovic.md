@@ -3,6 +3,8 @@ mentor: Andrea Boskovic
 title: Proportional Hazards Models
 mentees:
   - name: Dante Ramirez
+    slides: writeups/win2023/slides/dante.pdf
+    writeup: writeups/win2023/writeups/dante.pdf
 prereq: Some experience in survival analysis 
 year: 2023
 quarter: winter

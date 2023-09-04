@@ -3,6 +3,8 @@ mentor: Nina Galanter
 title: Introduction to Survival Analysis
 mentees:
   - name: Hannah Chiu
+    slides: writeups/win2023/slides/hannah.pdf
+    writeup: writeups/win2023/writeups/hannah.pdf
 prereq: Some knowledge of R or another programming language, understanding of expected value and conditional probability, some familiarity with linear regression
 year: 2023
 quarter: winter

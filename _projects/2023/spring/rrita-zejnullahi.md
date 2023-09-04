@@ -2,6 +2,9 @@
 mentor: Rrita Zejnullahi
 title: Decisions in risky situations
 mentees:
+  - name: Kreslyn Hinds
+    slides: writeups/spring2023/slides/kreslyn.pdf
+    writeup: writeups/spring2023/writeups/kreslyn.pdf
 prereq: Knowledge of introductory statistics and calculus.
 year: 2023
 quarter: spring

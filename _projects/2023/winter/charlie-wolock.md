@@ -3,6 +3,8 @@ mentor: Charlie Wolock
 title: Introduction to prediction
 mentees:
   - name: Liuyixin Shao
+    slides: writeups/win2023/slides/liuyixin.pdf
+    writeup: writeups/win2023/writeups/liuyixin.pdf
 prereq: Basic familiarity with R, introductory statistics. Some knowledge of regression would be useful. 
 year: 2023
 quarter: winter

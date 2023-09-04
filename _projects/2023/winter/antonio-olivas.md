@@ -3,6 +3,8 @@ mentor: Antonio Olivas
 title: Statistical evaluation of medical tests for classification and prediction
 mentees:
   - name: Sephora-Clotilde Zoro
+    slides: writeups/win2023/slides/sephora.pdf
+    writeup: writeups/win2023/writeups/sephora.pdf
 prereq: None
 year: 2023
 quarter: winter

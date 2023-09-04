@@ -3,6 +3,8 @@ mentor: Alex Bank
 title: Cutting-Edge Sports Statistics
 mentees:
   - name: Luke VanHouten
+    slides: writeups/win2023/slides/luke.pdf
+    writeup: writeups/win2023/writeups/luke.pdf
 prereq: Experienced with Python or R
 year: 2023
 quarter: winter

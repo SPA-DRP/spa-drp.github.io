@@ -2,6 +2,9 @@
 mentor: Ethan Ancell
 title: Classical papers in statistics
 mentees:
+  - name: YoungMin (Janice) Kim
+    slides: writeups/spring2023/slides/janice.pdf
+    writeup: writeups/spring2023/writeups/janice.pdf
 prereq: Students should have a good foundation in probability theory and some of the basic ideas in theoretical statistics (e.g., maximum likelihood estimation, central limit theorem, etc). Although we will be reading research articles, no prior experience in statistics research is necessary.
 year: 2023
 quarter: spring

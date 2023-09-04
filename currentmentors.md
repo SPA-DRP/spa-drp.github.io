@@ -2,7 +2,7 @@
 layout: page
 title:  'Mentors and Project Descriptions'
 year: 2023
-quarter: spring
+quarter: autumn
 ---
 
 

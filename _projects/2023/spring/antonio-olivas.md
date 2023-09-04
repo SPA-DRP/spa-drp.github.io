@@ -2,6 +2,9 @@
 mentor: Antonio Olivas
 title: Estimation of cancer screening models using deconvolution
 mentees:
+  - name: Yanting Hu
+    slides: writeups/spring2023/slides/yanting.pdf
+    writeup: writeups/spring2023/writeups/yanting.pdf
 prereq: Calculus (MATH 126) and exposure to probability theory (STAT 340).
 year: 2023
 quarter: spring

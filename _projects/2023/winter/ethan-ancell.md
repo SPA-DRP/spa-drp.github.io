@@ -3,6 +3,8 @@ mentor: Ethan Ancell
 title: Statistics in Neuroscience
 mentees:
   - name: David Ye
+    slides: writeups/win2023/slides/david.pdf
+    writeup: writeups/win2023/writeups/david.pdf
 prereq: Students should have an understanding of hypothesis testing, as well as familiarity with R and RStudio.
 year: 2023
 quarter: winter
