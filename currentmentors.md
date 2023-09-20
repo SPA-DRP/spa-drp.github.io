@@ -7,7 +7,7 @@ quarter: autumn
 
 
 <h4>
-Autumn 2023 projects are now posted. Interested undergraduates should submit their <a href="https://forms.gle/wRgqHsW2wnLnGDD28"> application </a> by September 17, 2023 11:59 PM!
+Autumn 2023 applications are now closed. Winter 2024 applications will open in early December!
 </h4>
 
 <hr>
