@@ -2,6 +2,9 @@
 mentor: Erin Lipman
 title: "Bayesian perspectives on probability and statistics: Part 2"
 mentees:
+    - name: Leila Peitsch
+      slides:
+      writeup:
 prereq: This is a continuation of a DRP project from Spring 2023, and is not open for new applications
 year: 2023
 quarter: autumn

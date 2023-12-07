@@ -2,6 +2,9 @@
 mentor: Zhaoxing Wu
 title: Classify High-Dimensional Data
 mentees:
+    - name: Elvin Liu
+      slides:
+      writeup:
 prereq:  Some programming experience with R
 year: 2023
 quarter: autumn

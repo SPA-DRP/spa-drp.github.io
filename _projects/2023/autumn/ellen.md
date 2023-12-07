@@ -2,6 +2,9 @@
 mentor: Ellen Graham
 title: Introduction to Longitudinal Data Analysis
 mentees:
+    - name: Zihang Wang
+      slides:
+      writeup:
 prereq: Familiarity with linear regression, for example via STAT 311, familiarity with R
 year: 2023
 quarter: autumn

@@ -2,6 +2,9 @@
 mentor: Vydhourie Thiyageswaran
 title: Electrical Resistance and Graphs
 mentees:
+    - name: Samuel Hsu
+      slides:
+      writeup:
 prereq: Strong background in linear algebra
 year: 2023
 quarter: autumn
