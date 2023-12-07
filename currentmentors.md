@@ -1,13 +1,13 @@
 ---
 layout: page
 title:  'Mentors and Project Descriptions'
-year: 2023
-quarter: autumn
+year: 2024
+quarter: winter
 ---
 
 
 <h4>
-Autumn 2023 applications are now closed. Winter 2024 applications will open in early December!
+Winter 2024 applications are now <a href="https://forms.gle/qBdLbg8E1GXhjPq89" target="_blank">open</a> and due by December 16 11:59 PM PT!
 </h4>
 
 <hr>
