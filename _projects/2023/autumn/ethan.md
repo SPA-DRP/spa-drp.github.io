@@ -3,8 +3,8 @@ mentor: Ethan Ancell
 title: Information Theory
 mentees:
     - name: Abigail Cummings
-      slides:
-      writeup:
+      slides: writeups/aut2023/slides/abigail.pdf
+      writeup: writeups/aut2023/writeups/abigail.pdf
 prereq: A background in probability at the level of Stat 394, and a little bit of coding experience.
 year: 2023
 quarter: autumn

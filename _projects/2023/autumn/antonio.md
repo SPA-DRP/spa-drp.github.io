@@ -3,8 +3,8 @@ mentor: Antonio Olivas
 title: Statistical evaluation of medical tests for classification and prediction
 mentees:
     - name: Yuning Hu
-      slides:
-      writeup:
+      slides: writeups/aut2023/slides/yuning.pdf
+      writeup: writeups/aut2023/writeups/yuning.pdf
 prereq: None
 year: 2023
 quarter: autumn

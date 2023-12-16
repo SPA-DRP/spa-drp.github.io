@@ -3,8 +3,8 @@ mentor: Nina Galanter
 title: An Overview of Survival Analysis
 mentees: 
     - name: Daoming Liu
-      slides:
-      writeup:
+      slides: writeups/aut2023/slides/daoming.pdf
+      writeup: writeups/aut2023/writeups/daoming.pdf
 prereq: Some knowledge of R or another programming language, understanding of expected value and conditional probability, some familiarity with linear regression
 year: 2023
 quarter: autumn

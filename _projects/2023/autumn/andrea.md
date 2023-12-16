@@ -3,8 +3,8 @@ mentor: Andrea Boskovic
 title: Introduction to Spatial Survey Sampling
 mentees:
     - name: Andrew Sousa
-      slides:
-      writeup:
+      slides: writeups/aut2023/slides/andrew.pdf
+      writeup: writeups/aut2023/writeups/andrew.pdf
 prereq: STAT 311 or equivalent and some coding knowledge
 year: 2023
 quarter: autumn

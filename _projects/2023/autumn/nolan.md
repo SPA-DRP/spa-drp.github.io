@@ -3,8 +3,8 @@ mentor: Nolan Cole
 title: An Introduction to Targeted Maximum Likelihood Estimation
 mentees:
     - name: Xiqian Yuan
-      slides:
-      writeup:
+      slides: writeups/aut2023/slides/xiqian.pdf
+      writeup: writeups/aut2023/writeups/xiqian.pdf
 prereq: Exposure to advanced probability/statistical theory. Bonus points for any experience with R!
 year: 2023
 quarter: autumn

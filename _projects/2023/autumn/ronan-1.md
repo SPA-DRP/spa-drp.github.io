@@ -3,8 +3,8 @@ mentor: Ronan Perry
 title: Network statistics
 mentees:
     - name: Guanhua Chen
-      slides:
-      writeup:
+      slides: writeups/aut2023/slides/guanhua.pdf
+      writeup: writeups/aut2023/writeups/guanhua.pdf
 prereq: Familiarity with the basics of probability and comfortability programming in Python.
 year: 2023
 quarter: autumn
