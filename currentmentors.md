@@ -7,7 +7,7 @@ quarter: winter
 
 
 <h4>
-Winter 2024 applications are now <a href="https://forms.gle/qBdLbg8E1GXhjPq89" target="_blank">open</a> and due by December 16 11:59 PM PT!
+Winter 2024 applications are closed. You can expect to start hearing back by December 27!
 </h4>
 
 <hr>
