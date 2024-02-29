@@ -2,6 +2,9 @@
 mentor: Yuhan Qian
 title: Introduction to Tree-based Models
 mentees:
+    - name: Zikun Zheng
+      slides: 
+      writeup:
 prereq: Familiarity with Python or R. Familiarity with the basics of probability and statistics.
 year: 2024
 quarter: winter

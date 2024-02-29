@@ -2,6 +2,9 @@
 mentor: Zhaoxing Wu
 title: Classify High-Dimensional Data
 mentees:
+    - name: Bowen Dong
+      slides: 
+      writeup:
 prereq: Some programming experience with R
 year: 2024
 quarter: winter
