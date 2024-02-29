@@ -6,9 +6,9 @@ quarter: winter
 ---
 
 
-<h4>
+<!-- <h4>
 Winter 2024 applications are closed. You can expect to start hearing back by December 27!
-</h4>
+</h4> -->
 
 <hr>
 
