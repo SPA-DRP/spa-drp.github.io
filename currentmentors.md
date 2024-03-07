@@ -2,12 +2,12 @@
 layout: page
 title:  'Mentors and Project Descriptions'
 year: 2024
-quarter: winter
+quarter: spring
 ---
 
 
 <!-- <h4>
-Winter 2024 applications are closed. You can expect to start hearing back by December 27!
+Spring 2024 applications are now open!
 </h4> -->
 
 <hr>
