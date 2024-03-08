@@ -6,9 +6,9 @@ quarter: spring
 ---
 
 
-<!-- <h4>
-Spring 2024 applications are now open!
-</h4> -->
+<h4>
+Spring 2024 applications are now <a href="https://forms.gle/kT24DLVTifeyNj976">open</a> and will close on March 16, 2024!
+</h4>
 
 <hr>
 
