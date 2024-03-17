@@ -1,7 +1,9 @@
 # spa-drp.github.io
 Webpage of the SPA Directed Reading Program and the University of Washington.
-Webpage maintained by Anna Neufeld (aneufeld [at] uw.edu), Apara Venkat, and Seth Temple. 
-Contact with any questions.
+
+For questions about the DRP, please see the [contact page](https://spa-drp.github.io/contact.html) on the [DRP website](https://spa-drp.github.io/).
+
+For questions about this respository and the codebase, please open a new [issue](/issues/new).
 
 
 ## Building locally
