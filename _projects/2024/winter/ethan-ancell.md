@@ -3,11 +3,11 @@ mentor: Ethan Ancell
 title: Random Matrix Theory
 mentees:
     - name: Abigail Cummings
-      slides: 
-      writeup:
+      slides: writeups/win2024/slides/cummingsabigaillindsay.pdf
+      writeup: writeups/win2024/writeups/cummingsabigaillindsay.pdf
     - name: Hansen Zhang
-      slides: 
-      writeup:
+      slides: writeups/win2024/slides/zhanghansen.pdf
+      writeup: writeups/win2024/writeups/zhanghansen.pdf
 prereq: "(Required): A good foundation in probability theory (Stat 394/395) and linear algebra (Math 208 or Math 340). (Optional and awesome): mathematical analysis at the level of Math 327."
 year: 2024
 quarter: winter

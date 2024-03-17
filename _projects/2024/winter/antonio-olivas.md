@@ -3,8 +3,8 @@ mentor: Antonio Olivas
 title: Estimating functions using Reproducing kernel Hilbert spaces
 mentees:
     - name: David Sharkansky
-      slides: 
-      writeup:
+      slides: writeups/win2024/slides/sharkanskydavid.pdf
+      writeup: writeups/win2024/writeups/sharkanskydavid.pdf
 prereq: Real analysis
 year: 2024
 quarter: winter

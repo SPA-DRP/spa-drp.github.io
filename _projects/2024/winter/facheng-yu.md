@@ -3,8 +3,8 @@ mentor: Facheng Yu
 title: Sparse Linear Model in High Dimensions
 mentees:
     - name: Puyuan Yao
-      slides: 
-      writeup:
+      slides: writeups/win2024/slides/yaopuyuan.pdf
+      writeup: writeups/win2024/writeups/yaopuyuan.pdf
 prereq: Linear Algebra
 year: 2024
 quarter: winter

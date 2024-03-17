@@ -3,8 +3,8 @@ mentor: Pawel Morzywolek
 title: Introduction to Causal Inference
 mentees:
     - name: Casey Logan
-      slides: 
-      writeup:
+      slides: writeups/win2024/slides/logancasey.pdf
+      writeup: writeups/win2024/writeups/logancasey.pdf
 prereq: "STAT 311 (or equivalent), a bit of familiarity with R is a plus."
 year: 2024
 quarter: winter

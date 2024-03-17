@@ -3,8 +3,8 @@ mentor: Kenny Zhang
 title: Hypothesis Testing and Causal Inference
 mentees:
     - name: Yuyang Sun
-      slides: 
-      writeup:
+      slides: writeups/win2024/slides/sunserena.pdf
+      writeup: writeups/win2024/writeups/sunserena.pdf
 prereq: Level of STAT 394/341 knowledge is required.
 year: 2024
 quarter: winter

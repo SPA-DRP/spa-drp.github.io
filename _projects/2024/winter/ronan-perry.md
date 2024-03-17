@@ -3,8 +3,8 @@ mentor: Ronan Perry
 title: "Causal inference: Regression and discontinuity designs"
 mentees:
     - name: Pranav Madhukar
-      slides: 
-      writeup:
+      slides: writeups/win2024/slides/madhukarpranav.pdf
+      writeup: writeups/win2024/writeups/madhukarpranav.pdf
 prereq: "Familiarity with basic probability and statistics. Familiarity with regression is highly recommended."
 year: 2024
 quarter: winter
