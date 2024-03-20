@@ -2,7 +2,7 @@
 mentor: Yuhan Qian
 title: Great Ideas in Statistics
 mentees:
-  - name:
+  - name: Gefei Shen
     slides:
     writeup:
 prereq: Familiarity with the basics of probability and statistics.

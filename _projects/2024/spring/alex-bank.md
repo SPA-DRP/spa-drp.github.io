@@ -2,7 +2,10 @@
 mentor: Alex Bank
 title: Deep Learning on Sports Data
 mentees:
-  - name:
+  - name: Weixuan Liu
+    slides:
+    writeup:
+  - name: Minh Tran
     slides:
     writeup:
 prereq: Probability theory (Stat 394/395), Linear Algebra (Math 208 or Math 340), advance Python skills (PyTorch experience a big plus)
