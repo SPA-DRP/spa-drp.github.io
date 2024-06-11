@@ -3,8 +3,8 @@ mentor: Apara Venkat
 title: Rashomon Effect
 mentees:
   - name: Wenxin Xia
-    slides:
-    writeup:
+    slides: writeups/spring2024/slides/ariel_slides.pdf
+    writeup: writeups/spring2024/writeups/ariel_writeup.pdf
 prereq: Basic probability and statistics, familiarity with linear regression and decision trees, proficiency in R.
 year: 2024
 quarter: spring

@@ -3,8 +3,8 @@ mentor: Antonio Olivas
 title: Estimation for cancer screening models using deconvolution
 mentees:
   - name: Huayue Zou
-    slides:
-    writeup:
+    slides: writeups/spring2024/slides/lucia_slides.pdf
+    writeup: writeups/spring2024/writeups/lucia_writeup.pdf
 prereq: Calculus (MATH 126), exposure to probability theory (STAT 340), and experience with R.
 year: 2024
 quarter: spring

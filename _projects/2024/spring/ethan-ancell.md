@@ -3,8 +3,8 @@ mentor: Ethan Ancell
 title: Introduction to Statistics Research
 mentees:
   - name: Hansen Zhang
-    slides:
-    writeup:
+    slides: writeups/spring2024/slides/hansen_slides.pdf
+    writeup: writeups/spring2024/writeups/hansen_writeup.pdf
 prereq: N/A
 year: 2024
 quarter: spring
