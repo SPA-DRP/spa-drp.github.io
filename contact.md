@@ -4,8 +4,8 @@ title:  'Contact'
 ---
 
 The DRP is run by a committee of graduate student organizers.
-Please contact Apara Venkat with any questions. 
+Please contact Ethan Ancell with any questions. 
 
-##### Apara Venkat
+##### Ethan Ancell
 
-**Email:** aparav [a t] uw [d o t] edu
+**Email:** ancell [a t] uw [d o t] edu
