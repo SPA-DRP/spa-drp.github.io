@@ -1,7 +1,7 @@
 ---
 mentor: Kayla Irish
 title: Introduction to survival analysis in clinical trials
-prereq: Having taken MATH/STAT 395 is highly recommended, and MATH/STAT 395 or STAT 340 is required. Some experience in R is recommended but not required.
+prereq: Having taken MATH/STAT 395 is highly recommended, and MATH/STAT 394 or STAT 340 is required. Some experience in R is recommended but not required.
 year: 2024
 quarter: autumn
 ---
