@@ -7,7 +7,7 @@ quarter: autumn
 
 
 <h3>
-Autumn 2024 applications are now open!
+Autumn 2024 applications are now open! <a href="https://docs.google.com/forms/d/e/1FAIpQLSen1fI8OBnMo1O72gB7qjaiI2SQxOdFOj_ZOZ9ZczddXgMYTg/viewform?usp=sf_link">Apply here at this link.</a>
 </h3>
 
 <h4>
