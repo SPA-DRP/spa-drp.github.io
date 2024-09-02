@@ -11,7 +11,7 @@ Autumn 2024 applications are now open!
 </h3>
 
 <h4>
-Applications for the Autumn 2024 will close at 11:59pm on September 16th, 2024.
+Applications for the Autumn 2024 will close at 11:59pm on September 15th, 2024.
 </h4>
 
 <h4>
