@@ -4,7 +4,7 @@ title:  'Contact'
 ---
 
 The DRP is run by a committee of graduate student organizers.
-Please contact Ethan Ancell with any questions. 
+Please contact Ethan Ancell (PhD student) with any questions. 
 
 ##### Ethan Ancell
 
