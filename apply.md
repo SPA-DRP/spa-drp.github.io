@@ -35,8 +35,8 @@ title:  'Apply'
 
 #### Winter 2025 applications are now open! The applications are due by 11:59pm on December 20th, 2024.
 
-* [Click here](https://docs.google.com/forms/d/e/1FAIpQLScDRMQkENcTvD2r7R7Xo-kYcWNJQ0O0FSysr9ozOyUfNIBsuQ/viewform?usp=sf_link) to apply to one of the listed projects under [Current Mentors and Projects](currentmentors.html)
-* [Click here](https://docs.google.com/forms/d/e/1FAIpQLSchTxxLwpafcKwuKkin0b7tTlwO1aBMke7leWs_4vdJa_sy5g/viewform?usp=sf_link) if you would like to pitch your own project that may be taken up by a graduate student mentor.
+* [Click here](https://docs.google.com/forms/d/e/1FAIpQLScDRMQkENcTvD2r7R7Xo-kYcWNJQ0O0FSysr9ozOyUfNIBsuQ/viewform?usp=sf_link) to apply to one of the listed projects under [Current Mentors and Projects](currentmentors.html) (**Most students will apply to just this form.**)
+* [Click here](https://docs.google.com/forms/d/e/1FAIpQLSchTxxLwpafcKwuKkin0b7tTlwO1aBMke7leWs_4vdJa_sy5g/viewform?usp=sf_link) if you would like to pitch your own project that may be taken up by a graduate student mentor. (**This form is optional.**)
 
 *Although most applicants will only apply to a mentor's project, you are allowed to both apply to a mentor's project and also pitch your own project.*
 
