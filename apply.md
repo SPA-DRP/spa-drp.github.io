@@ -33,18 +33,13 @@ title:  'Apply'
 
 ### Apply to DRP
 
-#### Spring 2025 applications will open soon: hopefully by March 14th or so! Applications for Spring 2025 will be due on March 23rd, 2025.
+* [Click here](https://docs.google.com/forms/d/e/1FAIpQLSfcuKfVspbv97n7aau7KRm_M0oNRAi_3rXg-bEjV1zzq1BryA/viewform?usp=dialog) to apply to one of the listed projects under [Current Mentors and Projects](currentmentors.html)
 
-<!-- * [Click here](https://docs.google.com/forms/d/e/1FAIpQLScDRMQkENcTvD2r7R7Xo-kYcWNJQ0O0FSysr9ozOyUfNIBsuQ/viewform?usp=sf_link) to apply to one of the listed projects under [Current Mentors and Projects](currentmentors.html) (**Most students will apply to just this form.**)
-* [Click here](https://docs.google.com/forms/d/e/1FAIpQLSchTxxLwpafcKwuKkin0b7tTlwO1aBMke7leWs_4vdJa_sy5g/viewform?usp=sf_link) if you would like to pitch your own project that may be taken up by a graduate student mentor. (**This form is optional.**)
+Applicants can expect to hear back around March 26th, but potentially later as DRP admissions works on a rolling basis.
 
-*Although most applicants will only apply to a mentor's project, you are allowed to both apply to a mentor's project and also pitch your own project.*
-
-Applicants can expect to hear back around December 30th, but potentially later as DRP admissions works on a rolling basis.
-
-### When are applications open?
+<!--### When are applications open?
 
 Applications typically open up around 3 weeks prior to the start of each quarter.
 
 * For Winter 2025, applications will open on **December 9th, 2024**, and close on **December 20th, 2024**.
-* For Spring 2025, applications will open on **March 10th, 2025**, and close on **March 21st, 2025**. -->
+* For Spring 2025, applications will open on **March 10th, 2025**, and close on **March 21st, 2025**.-->
