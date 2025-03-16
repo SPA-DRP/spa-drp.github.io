@@ -6,6 +6,10 @@ year: 2025
 quarter: spring
 ---
 
+**Project targeted for**: Sophomore/Junior/Senior
+
+**Number of students**: 1-2
+
 In this DRP we will write code to automate downloads of data from a variety of weather sources such as NOAA (National Oceanic and Atmospheric Administration), NWS (National Weather Service), NWAC (Northwest Avalanche Center), and the ECMWF (European Center for Midrange Weather Forecasts), and build tools to visualize this data and explore relationships between weather and avalanche data.
 
 *Strong preference will be given to applicants who have interests in working in climate or weather, or have particular interest in avalanche forecasts.*

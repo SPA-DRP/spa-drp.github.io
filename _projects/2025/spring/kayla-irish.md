@@ -10,6 +10,8 @@ quarter: spring
 
 **Number of students**: 1
 
+*This project is closed to new applicants.*
+
 Communicating statistical insights effectively is as important as performing the analysis itself. Well-designed visualizations reveal patterns in data and make results more interpretable. Poor visualization can mislead audiences and introduce bias to the reader.
 
 This project will explore principles of effective data visualization through reading and practice. Depending on student interest, we may begin by reading through Fundamentals of Data Visualization by Claus Wilke or The Visual Display of Quantitative Information by Edward Tufte. We will then apply these principles by creating visualizations for real-world datasets using R. Depending on interest, we may also explore interactive visualizations.
