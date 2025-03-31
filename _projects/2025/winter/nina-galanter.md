@@ -1,6 +1,10 @@
 ---
 mentor: Nina Galanter
 title: The Target Trial Framework for Causal Inference
+mentees:
+  - name: Aarav Talati
+    slides: writeups/win2025/slides/slides-aarav-talati.pdf
+    writeup: writeups/win2025/writeups/writeup-aarav-talati.pdf
 prereq: An introductory statistics course
 year: 2025
 quarter: winter

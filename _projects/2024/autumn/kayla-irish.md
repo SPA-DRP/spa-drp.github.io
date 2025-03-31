@@ -1,6 +1,10 @@
 ---
 mentor: Kayla Irish
 title: Introduction to survival analysis in clinical trials
+mentees:
+  - name: Linyi Xia
+    slides: writeups/aut2024/slides/slides-linyi-xia.pdf
+    writeup: writeups/aut2024/writeups/writeup-linyi-xia.pdf
 prereq: Having taken MATH/STAT 395 is highly recommended, and MATH/STAT 394 or STAT 340 is required. Some experience in R is recommended but not required.
 year: 2024
 quarter: autumn

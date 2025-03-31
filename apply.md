@@ -33,11 +33,13 @@ title:  'Apply'
 
 ### Apply to DRP
 
-* [Click here](https://docs.google.com/forms/d/e/1FAIpQLSfcuKfVspbv97n7aau7KRm_M0oNRAi_3rXg-bEjV1zzq1BryA/viewform?usp=dialog) to apply to one of the listed projects under [Current Mentors and Projects](currentmentors.html)
+Applications are currently closed. Applications typically open up around 3 weeks prior to the start of each quarter.
+
+<!--* [Click here](https://docs.google.com/forms/d/e/1FAIpQLSfcuKfVspbv97n7aau7KRm_M0oNRAi_3rXg-bEjV1zzq1BryA/viewform?usp=dialog) to apply to one of the listed projects under [Current Mentors and Projects](currentmentors.html)
 
 Applicants can expect to hear back around March 26th, but potentially later as DRP admissions works on a rolling basis.
 
-<!--### When are applications open?
+### When are applications open?
 
 Applications typically open up around 3 weeks prior to the start of each quarter.
 

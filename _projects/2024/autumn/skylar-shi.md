@@ -1,6 +1,8 @@
 ---
 mentor: Skylar Shi
 title: Introduction to Bayesian statistics
+mentees:
+  - name: Xingda (David) Lyu
 prereq: Probability theory; Familiar with some basic distributions such as Normal, Gamma, Poisson, Binomial.
 year: 2024
 quarter: autumn

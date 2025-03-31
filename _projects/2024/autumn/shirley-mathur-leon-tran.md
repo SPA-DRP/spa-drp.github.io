@@ -1,6 +1,12 @@
 ---
 mentor: Shirley Mathur and Leon Tran
 title: Modern Approaches to Post-Prediction Inference
+mentees:
+  - name: Catherine Zhang
+    slides: writeups/aut2024/slides/catherine-zhang.pdf
+    writeup: writeups/aut2024/writeups/catherine-zhang.pdf
+  - name: Elle Ruthorford
+    writeup: writeups/aut2024/writeups/elle-rutherford.pdf
 prereq: Familiarity with the concept of limits, probability concepts at level of STAT 342, and linear regression at level of STAT 423.
 year: 2024
 quarter: autumn

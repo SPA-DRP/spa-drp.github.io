@@ -1,6 +1,9 @@
 ---
 mentor: Nila Cibu
 title: Introduction to Measure Theory
+mentees:
+  - name: Jin Hu
+    writeup: writeups/aut2024/writeups/writeup-jin-hu.pdf
 prereq: "Highly recommended: linear algebra (Math 208 or Math 340), mathematical analysis (Math 327)
 Would be cool to have: some probability theory (Stat 394/395 or Stat 341/342)"
 year: 2024

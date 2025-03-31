@@ -1,6 +1,10 @@
 ---
 mentor: Ronan Perry
 title: Tacking the reproducibility crisis and abuse of p-values-- e-values and universal inference
+mentees:
+  - name: Bao Han Ngo
+    slides: writeups/win2025/slides/slides-bao-han-ngo.pdf
+    writeup: writeups/win2025/writeups/writeup-bao-han-ngo.pdf
 prereq: The student should have a strong foundation in statistical inference, namely hypothesis testing and p-values. Stat 394 or a stronger probability foundation will be necessary. No computing experience is needed. Course content can be adapted to the background of the student, but will be more mathematical in nature as opposed to applied.
 year: 2025
 quarter: winter

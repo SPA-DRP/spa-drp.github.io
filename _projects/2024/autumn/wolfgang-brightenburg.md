@@ -1,6 +1,9 @@
 ---
 mentor: Wolfgang Brightenburg
 title: Introduction to Gaussian Processes
+mentees:
+  - name: Arnav Palkhiwala
+    writeup: writeups/aut2024/writeups/writeup-arnav-palkhiwala.pdf
 prereq: linear algebra, recommended comfort with probability to the level of STAT 394, basic understanding of coding in R 
 year: 2024
 quarter: autumn

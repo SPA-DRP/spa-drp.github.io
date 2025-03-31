@@ -1,6 +1,10 @@
 ---
 mentor: Kenny Zhang
 title: Sensitivity Analysis in Causal Inference
+mentees:
+  - name: Doris Wang
+    slides: writeups/win2025/slides/slides-doris-wang.pdf
+    writeup: writeups/win2025/writeups/writeup-doris-wang.pdf
 prereq: Stat 311 or Stat 390 is required. More advanced statistics/math class will be a plus.
 year: 2025
 quarter: winter

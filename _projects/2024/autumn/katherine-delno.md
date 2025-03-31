@@ -1,6 +1,8 @@
 ---
 mentor: Katherine Delno
 title: An Introduction to Statistical Learning 
+mentees:
+  - name: Xinye (Doris) Luo
 prereq: Basic probability and statistics (STAT 311 or equivalent), familiarity with regression, and some experience with R.
 year: 2024
 quarter: autumn

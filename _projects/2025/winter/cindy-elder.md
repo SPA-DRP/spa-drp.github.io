@@ -1,6 +1,13 @@
 ---
 mentor: Cindy Elder
 title: How to use numbers to make the world a better place
+mentees:
+  - name: Lily Yao
+    slides: writeups/win2025/slides/slides-srinidhi-muralidharan.pdf
+    writeup: writeups/win2025/writeups/writeup-srinidhi-muralidharan.pdf
+  - name: Srinidhi Muralidharan
+    slides: writeups/win2025/slides/slides-srinidhi-muralidharan.pdf
+    writeup: writeups/win2025/writeups/writeup-srinidhi-muralidharan.pdf
 prereq: No firm prerequisite.  Some coding helpful but happy to help intro coders.
 year: 2025
 quarter: winter

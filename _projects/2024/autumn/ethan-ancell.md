@@ -1,6 +1,13 @@
 ---
 mentor: Ethan Ancell
 title: Robust Statistics
+mentees:
+  - name: Anthony Xing
+    slides: writeups/aut2024/slides/slides-anthony-xing.pdf
+    writeup: writeups/aut2024/writeups/writeup-anthony-xing.pdf
+  - name: Yu He Zhang
+    slides: writeups/aut2024/slides/yu-he-zhang.pdf
+    writeup: writeups/aut2024/writeups/yu-he-zhang.pdf
 prereq: Probability/statistical inference at the level of Stat 394/395 is required, mathematical analysis at the level of Math 424 is highly recommended
 year: 2024
 quarter: autumn

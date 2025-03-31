@@ -1,6 +1,8 @@
 ---
 mentor: Antonio Olivas
 title: Function Estimation using Reproducing Kernel Hilbert Spaces
+mentees:
+    - name: Jingxuan Chen
 prereq: Real analysis at the level of Math 424
 year: 2024
 quarter: autumn

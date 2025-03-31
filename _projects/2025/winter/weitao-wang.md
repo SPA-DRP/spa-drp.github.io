@@ -1,6 +1,10 @@
 ---
 mentor: Weitao Wang
 title: Introduction to Structural Causal Models
+mentees:
+  - name: Krish Doshi
+    slides: writeups/win2025/slides/slides-krish-doshi.pdf
+    writeup: writeups/win2025/writeups/writeup-krish-doshi.pdf
 prereq: Basic probability theory and statistics. Familiarity with R/Python.
 year: 2025
 quarter: winter

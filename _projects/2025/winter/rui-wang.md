@@ -1,6 +1,10 @@
 ---
 mentor: Rui Wang
 title: Introduction to Conformal Inference
+mentees:
+  - name: Nick Ayaba
+    slides: writeups/win2025/slides/slides-nicktab-ayaba.pdf
+    writeup: writeups/win2025/writeups/writeup-nicktab-ayaba.pdf
 prereq: Stat 394 (required), Stat 395/Stat 396(highly recommanded), Stat 341/Stat 342 (highly recommanded), familiarity with hypothesis testing, proficiency in R.
 year: 2025
 quarter: winter

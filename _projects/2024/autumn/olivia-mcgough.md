@@ -1,6 +1,8 @@
 ---
 mentor: Olivia McGough
 title: Reading Introduction to Statistical Learning 
+mentees:
+  - name: Xiyue Huang
 prereq: The book is written to be accessible to a broad audience, so I think the only prerequisite is some statistics/probability knowledge and an interest to learn more. Familiarity with R/python would allow us to go through some of the labs, but this is not necessary.
 year: 2024
 quarter: autumn

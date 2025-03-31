@@ -1,6 +1,10 @@
 ---
 mentor: Andrew Zhang
 title: Large Deviations
+mentees:
+  - name: Yuhan Zhang
+    slides: writeups/win2025/slides/slides-yuhan-zhang.pdf
+    writeup: writeups/win2025/writeups/writeup-yuhan-zhang.pdf
 prereq: Familiarity with probability and the topology of R^d
 year: 2025
 quarter: winter

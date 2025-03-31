@@ -1,6 +1,13 @@
 ---
 mentor: Kayla Irish
 title: Logistic Regression and GLMs
+mentees:
+  - name: Linyi Xia
+    slides: writeups/win2025/slides/slides-linyi-xia.pdf
+    writeup: writeups/win2025/writeups/writeup-linyi-xia.pdf
+  - name: Catherine Zhang
+    slides: writeups/win2025/slides/slides-catherine-zhang.pdf
+    writeup: writeups/win2025/writeups/writeup-catherine-zhang.pdf
 prereq: Having taken MATH/STAT 395 or 342 is recommended, and MATH/STAT 394 or STAT 340 is required. STAT 311 or STAT 390 is also required.
 year: 2025
 quarter: winter

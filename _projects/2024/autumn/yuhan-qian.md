@@ -1,6 +1,9 @@
 ---
 mentor: Yuhan Qian
 title: Introduction to Gaussian Process
+mentees:
+  - name: Yan Peng
+    writeup: writeups/aut2024/writeups/writeup-yan-peng.pdf
 prereq: Probability at the level of STAT 394 recommended but not necessary; Some experience in R or Python
 year: 2024
 quarter: autumn

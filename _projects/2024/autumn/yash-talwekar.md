@@ -1,6 +1,10 @@
 ---
 mentor: Yash Talwekar
 title: System Identification Techniques
+mentees:
+  - name: Yash Anand
+    slides: writeups/aut2024/slides/slides-yash-anand.pdf
+    writeup: writeups/aut2024/writeups/writeup-yash-anand.pdf
 prereq:
 year: 2024
 quarter: autumn
