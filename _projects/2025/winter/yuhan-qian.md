@@ -3,8 +3,6 @@ mentor: Yuhan Qian
 title: Introduction to Kernel Methods for Causal Inference
 mentees:
   - name: Yan Peng
-    slides: writeups/win2025/slides/slides-yan-peng.pdf
-    writeup: writeups/win2025/writeups/writeup-yan-peng.pdf
 prereq: N/A
 year: 2025
 quarter: winter
