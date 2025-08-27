@@ -33,7 +33,9 @@ title:  'Apply'
 
 ### Apply to DRP
 
-Applications are currently closed. Applications typically open up around 3 weeks prior to the start of each quarter.
+Applications are currently closed. Applications for the Autumn 2025 quarter will open up on September 6th, and will close at 11:59pm on September 14th.
+
+[Fill out this form if you would like to receive an email when DRP applications open up.](https://docs.google.com/forms/d/e/1FAIpQLSdq6fVS3UI3ABV0uQA1fNpujUruzHmR8QyI4ovkIdXadxqNQQ/viewform?usp=dialog)
 
 <!--* [Click here](https://docs.google.com/forms/d/e/1FAIpQLSfcuKfVspbv97n7aau7KRm_M0oNRAi_3rXg-bEjV1zzq1BryA/viewform?usp=dialog) to apply to one of the listed projects under [Current Mentors and Projects](currentmentors.html)
 
