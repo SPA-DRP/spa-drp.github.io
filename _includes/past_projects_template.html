@@ -28,8 +28,19 @@
           </h5>
         {% endfor %}
       {% endif %}
-      <b><i> Prerequisites: </i></b> {{ project.prereq }}
-      <br><br>
+      <div style = "text-indent: -18px; padding-left: 18px;">
+        <b>Prerequisites: </b> {{ project.prereq }}
+      </div>
+      {% if project.bestfor %}
+          <b>Project is best for: </b> {{ project.bestfor }}
+      {% endif %}
+      {% if project.numbermentees %}
+          <br>
+          <div style = "text-indent: -36px; padding-left: 36px;">
+            <b>Number of mentees: </b> {{ project.numbermentees }}
+          </div>
+      {% endif %}
+      <br>
       {{ project.content }}
       <br><br>
     {% endif %}
