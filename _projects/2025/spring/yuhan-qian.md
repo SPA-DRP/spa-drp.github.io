@@ -1,6 +1,10 @@
 ---
 mentor: Yuhan Qian
 title: Introduction to Generative Models
+mentees:
+  - name: Jennifer Zhang
+    slides: writeups/spring2025/slides/slides-jennifer-zhang.pdf
+    writeup: writeups/spring2025/writeups/writeup-jennifer-zhang.pdf
 prereq: Stat 311/390 (required); Stat 394 (recommended); Math 208/Linear algebra (recommended); Familiarity with R/Python (recommended)
 year: 2025
 quarter: spring

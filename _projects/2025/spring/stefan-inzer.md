@@ -1,6 +1,13 @@
 ---
 mentor: Stefan Inzer
 title: An Introduction to Time (Series)
+mentees:
+  - name: Celine Sachi
+    slides: writeups/spring2025/slides/slides-celine-sachi.pdf
+    writeup: writeups/spring2025/writeups/writeup-celine-sachi.pdf
+  - name: Tracia Pan
+    slides: writeups/spring2025/slides/slides-tracia-pan.pdf
+    writeup: writeups/spring2025/writeups/writeup-tracia-pan.pdf
 prereq: Familiarity with linear algebra and analysis is very useful. Also helpful will be familiarity with linear regression, the normal distribution, and some experience in R or in Python (like STAT 311).
 year: 2025
 quarter: spring

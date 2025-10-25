@@ -1,6 +1,10 @@
 ---
 mentor: Simon Nguyen
 title: Active Learning
+mentees:
+  - name: Troy Russo
+    slides: writeups/spring2025/slides/slides-troy-russo.pdf
+    writeup: writeups/spring2025/writeups/writeup-troy-russo.pdf
 prereq: (Stat 311 or Stat 390) and Stat 341 and Stat 342
 year: 2025
 quarter: spring

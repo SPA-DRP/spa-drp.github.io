@@ -1,6 +1,10 @@
 ---
 mentor: Dasha Petrov
 title: Intro to Deep Learning
+mentees:
+  - name: Jingyu Zhang
+    slides: writeups/spring2025/slides/slides-jingyu-zhang.pdf
+    writeup: writeups/spring2025/writeups/writeup-jingyu-zhang.pdf
 prereq: Basic calculus, linear algebra, and probability/statistics, and some experience with R/Python
 year: 2025
 quarter: spring

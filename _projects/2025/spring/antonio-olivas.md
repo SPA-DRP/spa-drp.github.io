@@ -1,6 +1,10 @@
 ---
 mentor: Antonio Olivas
 title: Function Estimation using Reproducing Kernel Hilbert Spaces
+mentees:
+  - name: Oliver Brown
+    slides: writeups/spring2025/slides/slides-oliver-brown.pdf
+    writeup: writeups/spring2025/writeups/writeup-oliver-brown.pdf
 prereq: Real analysis at the level of Math 424
 year: 2025
 quarter: spring

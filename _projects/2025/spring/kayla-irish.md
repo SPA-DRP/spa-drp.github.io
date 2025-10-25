@@ -1,6 +1,10 @@
 ---
 mentor: Kayla Irish
 title: Data Visualization
+mentees:
+  - name: Isaac Muhlestein
+    slides: writeups/spring2025/slides/slides-isaac-muhlestein.pdf
+    writeup: writeups/spring2025/writeups/writeup-isaac-muhlestein.pdf
 prereq: Stat 311 or Stat 390
 year: 2025
 quarter: spring

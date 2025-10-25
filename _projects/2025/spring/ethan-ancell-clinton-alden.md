@@ -1,6 +1,10 @@
 ---
 mentor: Ethan Ancell and Clinton Alden
 title: Statistics for Avalanche and Weather Forecasting
+mentees:
+  - name: Joey Huang
+    slides: writeups/spring2025/slides/slides-joey-huang.pdf
+    writeup: writeups/spring2025/writeups/writeup-joey-huang.pdf
 prereq: Strong coding background (either formally through a course, or through prior coding projects)
 year: 2025
 quarter: spring

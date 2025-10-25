@@ -1,6 +1,13 @@
 ---
 mentor: Leon Tran and Nila Cibu
 title: Theory of Gambling
+mentees:
+  - name: Bhaumik Mehta
+    slides: writeups/spring2025/slides/slides-bhaumik-mehta.pdf
+    writeup: writeups/spring2025/writeups/writeup-bhaumik-mehta.pdf
+  - name: Jian Kang
+    slides: writeups/spring2025/slides/slides-jian-kang.pdf
+    writeup: writeups/spring2025/writeups/writeup-jian-kang.pdf
 prereq: Stat 311/390 (required); Stat 394 (recommended); Math 208/Linear algebra (recommended); Familiarity with R/Python (recommended)
 year: 2025
 quarter: spring
