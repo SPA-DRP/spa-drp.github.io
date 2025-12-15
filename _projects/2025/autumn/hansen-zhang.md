@@ -1,6 +1,10 @@
 ---
 mentor: Hansen Zhang
 title: Martingales and the Monkey Problem
+mentees:
+  - name: Irene Cai
+    slides: writeups/aut2025/slides/slides-irene-cai.pdf
+    writeup: writeups/aut2025/writeups/writeup-irene-cai.pdf
 prereq: Basic probability at the level of STAT 311/394 or 390, and nice to have linear algebra (e.g., MATH 208) but not necessary
 bestfor: Sophomore (2nd year) or Junior (3rd year)
 numbermentees: 1

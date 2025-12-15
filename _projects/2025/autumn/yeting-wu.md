@@ -1,6 +1,13 @@
 ---
 mentor: Yeting Wu
 title: Analysis of Variance
+mentees:
+  - name: Lucas Ng
+    slides: writeups/aut2025/slides/slides-lucas-ng.pdf
+    writeup: writeups/aut2025/writeups/writeup-lucas-ng.pdf
+  - name: Samuel Tinker
+    slides: writeups/aut2025/slides/slides-samuel-tinker.pdf
+    writeup: writeups/aut2025/writeups/writeup-samuel-tinker.pdf
 prereq: Completion of an introductory statistics course is required (e.g., STAT 311 or STAT 390) or equivalent background. It is suggested, but not required to. have prior exposure to R or Python for simple data analysis and visualization.
 bestfor: Any undergraduate
 numbermentees: 2

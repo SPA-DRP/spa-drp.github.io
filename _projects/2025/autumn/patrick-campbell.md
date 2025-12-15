@@ -1,6 +1,10 @@
 ---
 mentor: Patrick Campbell
 title: Introduction to Statistical Learning
+mentees:
+  - name: Duc Huy Nguyen
+    slides: writeups/aut2025/slides/slides-duc-huy-nguyen.pdf
+    writeup: writeups/aut2025/writeups/writeup-duc-huy-nguyen.pdf
 prereq: Stat 311 or equivalent required, coding experience in R/Python preferred, knowledge of linear algebra (i.e. Math 208) helpful but not required.
 bestfor: Sophomore (2nd year), Junior (3rd year), or Senior (4th year or beyond)
 numbermentees: 1

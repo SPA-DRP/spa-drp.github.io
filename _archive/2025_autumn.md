@@ -1,0 +1,8 @@
+---
+layout: page
+year: 2025
+quarter: autumn
+skip_title: true
+---
+
+{% include past_projects_template.html %}

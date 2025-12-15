@@ -1,6 +1,10 @@
 ---
 mentor: Ronan Perry
 title: Patterns, Predictions, and Actions
+mentees:
+  - name: Ariel Fu
+    slides: writeups/aut2025/slides/slides-ariel-fu.pdf
+    writeup: writeups/aut2025/writeups/writeup-ariel-fu.pdf
 prereq: The student should (i) have taken at least one course in probability and statistics (we will discuss concepts such as the normal distribution, likelihoods, expectations, conditional probability in 1 dimension) and (ii) be comfortable with computing in R or Python. The level of the DRP may be scaled to the level of the student and I will provide materials as necessary.
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

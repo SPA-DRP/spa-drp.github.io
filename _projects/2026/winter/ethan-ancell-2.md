@@ -16,4 +16,4 @@ If you are interested in this opportunity, in addition to filling out the usual 
 * A rough sketch of what resources or papers you plan to read to conduct your self-study
 * Whether you would like this project to be more of a "reading" (self-study) project or more of a "research" project.
 
-Preference will be given to applicants who have a specific and compelling plan for their self-study. Due to the fact that the Winter 2026 DRP projects are currently heavily skewed towards juniors and seniors, I will be giving preference to applicants who are freshman or sophomores and are interested in applying to the statistics major. 
+Preference will be given to applicants who have a specific and compelling plan for their self-study. Due to the fact that the other Winter 2026 DRP project offers are heavily skewed towards junior and senior undergraduates, I will be giving preference to applicants who are freshman or sophomores, and are interested in applying to the statistics major. 

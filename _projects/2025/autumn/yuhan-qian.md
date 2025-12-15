@@ -1,6 +1,10 @@
 ---
 mentor: Yuhan Qian
 title: Introduction to Gaussian Processes
+mentees:
+  - name: Yijing Chen
+    slides: writeups/aut2025/slides/slides-yijing-chen.pdf
+    writeup: writeups/aut2025/writeups/writeup-yijing-chen.pdf
 prereq: STAT 394 highly recommended; STAT 341/342 recommended but not necessary
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

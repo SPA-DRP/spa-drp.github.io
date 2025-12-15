@@ -1,6 +1,13 @@
 ---
 mentor: Ethan Ancell and Kayla Irish
 title: Multiple Testing
+mentees:
+  - name: Elly Lee
+    slides: writeups/aut2025/slides/slides-elly-lee.pdf
+    writeup: writeups/aut2025/writeups/writeup-elly-lee.pdf
+  - name: Maia Czerwonka
+    slides: writeups/aut2025/slides/slides-maia-czerwonka.pdf
+    writeup: writeups/aut2025/writeups/writeup-maia-czerwonka.pdf
 prereq: Comfort with hypothesis testing and confidence intervals
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 2
