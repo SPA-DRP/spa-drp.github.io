@@ -1,11 +1,8 @@
 ---
 layout: page
-title:  'Mentors and Project Descriptions'
 year: 2026
-quarter: spring
+quarter: winter
+skip_title: true
 ---
 
-<hr>
-
 {% include past_projects_template.html %}
-

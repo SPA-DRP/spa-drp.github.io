@@ -40,6 +40,12 @@
             <b>Number of mentees: </b> {{ project.numbermentees }}
           </div>
       {% endif %}
+      {% if project.mode %}
+          <br>
+          <div style = "text-indent: -36px; padding-left: 36px;">
+            <b>How you will meet: </b> {{ project.mode }} 
+          </div>
+      {% endif %}
       <br>
       {{ project.content }}
       <br><br>
