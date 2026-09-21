@@ -3,11 +3,11 @@ layout: default
 title:  'Apply to DRP'
 ---
 
-## Spring 2026 DRP applications are closed.
+## Autumn 2026 Applications are not open yet
 
-Applications for Autumn 2026 will open approximately 2-3 weeks before the start of the Autumn 2026 quarter.
+Applications for Autumn 2026 will open around September 18th (plus or minus a few days), and will close September 27th (plus or minus a few days).
 
-Sometime in mid-May 2026, this page will be updated with a reminder form that you can fill out to receive notifications when DRP applications open during the 2026-2027 academic year.
+[Fill out this form to receive reminder emails when the DRP application opens up for the Autumn 2026, Winter 2027, and Spring 2027 quarters.](https://docs.google.com/forms/d/e/1FAIpQLSeb_M9H7lpFRvxkKqmlbo2VFMo_0NlieqMWBZbehG-2-KUG9A/viewform?usp=publish-editor) (*Please note that you must be signed into your UW email to fill out this reminder form.*)
 
 <!-- Winter 2025 DRP applications will open up approximately 2-3 weeks before the start of the Winter 2025 quarter. -->
 
