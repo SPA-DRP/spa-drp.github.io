@@ -2,7 +2,7 @@
 layout: page
 title:  'Mentors and Project Descriptions'
 year: 2026
-quarter: spring
+quarter: autumn
 ---
 
 <hr>
