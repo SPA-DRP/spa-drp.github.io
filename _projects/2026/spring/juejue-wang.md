@@ -1,6 +1,10 @@
 ---
 mentor: Juejue Wang
 title: Sensitivity Analysis for Difference-in-Differences Designs
+mentees:
+  - name: Ruiqi Zhou
+    slides: writeups/spring2026/slides/slides-ruiqi-zhou.pdf
+    writeup: writeups/spring2026/writeups/writeup-ruiqi-zhou.pdf
 prereq: Strong coding skills (R or Python) and math background (calculus, probability, and linear algebra).
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

@@ -1,6 +1,10 @@
 ---
 mentor: Qian Meng
 title: Introduction to Causal Inference
+mentees:
+  - name: Jaime Li
+    slides: writeups/win2026/slides/slides-jaime-li.pdf
+    writeup: writeups/win2026/writeups/writeup-jaime-li.pdf
 prereq: Introductory statistics and probability courses. STAT 341/STAT 342 recommended.
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

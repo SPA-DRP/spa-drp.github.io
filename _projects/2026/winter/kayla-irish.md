@@ -1,6 +1,10 @@
 ---
 mentor: Kayla Irish
 title: Stratified Randomization in Clinical Trials
+mentees:
+  - name: Victoria Hristova
+    slides: writeups/win2026/slides/slides-victoria-hristova.pdf
+    writeup: writeups/win2026/writeups/writeup-victoria-hristova.pdf
 prereq: Stat 341/Stat 342 highly recommended
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

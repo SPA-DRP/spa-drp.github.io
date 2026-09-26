@@ -1,6 +1,10 @@
 ---
 mentor: Ethan Ancell
 title: Asymptotics without the sample size going to infinity
+mentees:
+  - name: Andy Zhang
+    slides: writeups/win2026/slides/slides-andy-zhang.pdf
+    writeup: writeups/win2026/writeups/writeup-andy-zhang.pdf
 prereq: Stat 394 (or some equivalent) required. Analysis at the level of Math 327 (or equivalent) is highly recommended, but not strictly required if you're willing to do extra self-study! 
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

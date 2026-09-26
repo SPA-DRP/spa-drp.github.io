@@ -1,6 +1,13 @@
 ---
 mentor: Jasper Yang
 title: Statistical Decision Theory
+mentees:
+  - name: Sangey Rinchen
+    slides: writeups/win2026/slides/slides-sangey-rinchen.pdf
+    writeup: writeups/win2026/writeups/writeup-sangey-rinchen.pdf
+  - name: Aarush Sharma
+    slides: writeups/win2026/slides/slides-aarush-sharma.pdf
+    writeup: writeups/win2026/writeups/writeup-aarush-sharma.pdf
 prereq: STAT 394
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

@@ -1,6 +1,10 @@
 ---
 mentor: Tony Lei
 title: Statistical Foundations of Machine Translation and Large Language Models
+mentees:
+  - name: Taeyun Kim
+    slides: writeups/win2026/slides/slides-taeyun-kim.pdf
+    writeup: writeups/win2026/writeups/writeup-taeyun-kim.pdf
 prereq: STAT 311 or STAT 390, STAT 394, and comfort with multivariate calculus
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1
