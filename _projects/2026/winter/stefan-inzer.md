@@ -3,19 +3,14 @@ mentor: Stefan Inzer
 title: An Introduction to Time (Series)
 mentees:
   - name: Celine Sachi
-    slides: writeups/spring2025/slides/slides-celine-sachi.pdf
-    writeup: writeups/spring2025/writeups/writeup-celine-sachi.pdf
-  - name: Tracia Pan
-    slides: writeups/spring2025/slides/slides-tracia-pan.pdf
-    writeup: writeups/spring2025/writeups/writeup-tracia-pan.pdf
+    slides: writeups/win2026/slides/slides-celine-sachi.pdf
+    writeup: writeups/win2026/writeups/writeup-celine-sachi.pdf
 prereq: Familiarity with linear algebra and analysis is very useful. Also helpful will be familiarity with linear regression, the normal distribution, and some experience in R or in Python (like STAT 311).
-year: 2025
-quarter: spring
+year: 2026
+quarter: winter
 ---
 
-**Project targeted for**: Junior/Senior
-
-**Number of students**: 2
+*This project is a continuation of a previous project from the Spring 2025 quarter.*
 
 Forget i.i.d. samples. In time series, observations are usually correlated for the fact they appear in a sequence over time. The goal of this DRP will be to learn about time series analysis and see how valuable they are in real-world applications.
 
