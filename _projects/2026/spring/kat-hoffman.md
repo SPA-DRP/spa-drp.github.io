@@ -3,7 +3,6 @@ mentor: Kat Hoffman
 title: Foundations of Causal Inference
 mentees:
   - name: Katie Gower
-    slides: writeups/spring2026/slides/slides-katie-gower.pdf
     writeup: writeups/spring2026/writeups/writeup-katie-gower.pdf
 prereq: Basic familiarity with statistics
 bestfor: Sophomore (2nd year), Junior (3rd year), or Senior (4th year and beyond)
