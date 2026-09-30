@@ -3,7 +3,7 @@ mentor: Keunwoo Lim
 title: Generation of Medical Time-Series Data
 mentees:
   - name: Nidhi Vora
-    writeup: writeups/spring2026/writeups/writeup-nidhi-vora.pdf
+    writeup: writeups/spring2026/writeup-nidhi-vora.pdf
 prereq: STAT 390, experience with R/Python
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

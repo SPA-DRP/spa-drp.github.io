@@ -1,6 +1,9 @@
 ---
 mentor: Alex Kokot
 title: Reinforcement learning for optimal game-theoretic strategies
+mentees:
+  - name: Eshaan Kumar
+    writeup: writeups/spring2026/writeup-eshaan-kumar.pdf
 prereq: Strong coding abilities, and an interest in solving mathematics with reinforcement learning
 bestfor: Sophomore (2nd year), Junior (3rd year), or Senior (4th year or beyond)
 numbermentees: 1

@@ -3,7 +3,7 @@ mentor: Rui Wang
 title: Introduction to Survival Analysis
 mentees:
   - name: Blake Xu
-    writeup: writeups/spring2026/writeups/writeup-blake-xu.pdf
+    writeup: writeups/spring2026/writeup-blake-xu.pdf
 prereq: Stat 394 (or equivalent)  required. Analysis at the level of Math 327 (or equivalent) is highly recommended.
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

@@ -3,7 +3,7 @@ mentor: Nolan Cole
 title: Shape Constrained Inference
 mentees:
   - name: Vivek Vemulakonda
-    writeup: writeups/spring2026/writeups/writeup-vivek-vemulakonda.pdf
+    writeup: writeups/spring2026/writeup-vivek-vemulakonda.pdf
 prereq: STAT 341/342, Stat 395/Stat 396 would be helpful, and experience with R or Python preferred but not necessary.
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1

@@ -3,7 +3,7 @@ mentor: Yuhan Qian
 title: From Small Language Models to AI Agents
 mentees:
   - name: Believer (Ziyu) Liao
-    writeup: writeups/spring2026/writeups/writeup-ziyu-liao.pdf
+    writeup: writeups/spring2026/writeup-ziyu-liao.pdf
 prereq: Programming experience (Python)
 bestfor: Junior (3rd year) or Senior (4th year or beyond)
 numbermentees: 1
